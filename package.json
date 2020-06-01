@@ -1,7 +1,7 @@
 {
-  "name": "node-es6-boilerplate",
+  "name": "invisible-app",
   "version": "0.0.1",
-  "description": "Boilerplate for Node.js projects with lint, transpile and test configurations",
+  "description": "test project",
   "main": "./build/index.js",
   "scripts": {
     "start": "babel-node 'src/index.js'",
@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/aharshac/node-es6-boilerplate.git"
+    "url": "git+https://github.com/Jchinonso/invisible-app.git"
   },
   "keywords": [
     "nodejs",
@@ -22,12 +22,12 @@
     "mocha",
     "lint"
   ],
-  "author": "Harsha Alva",
+  "author": "Chinonso Johnson",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/aharshac/node-es6-boilerplate/issues"
+    "url": "https://github.com/Jchinonso/invisible-app/issues"
   },
-  "homepage": "https://github.com/aharshac/node-es6-boilerplate#readme",
+  "homepage": "https://github.com/Jchinonso/invisible-app#readme",
   "dependencies": {
     "axios": "^0.19.2",
     "moment-timezone": "^0.5.31"
