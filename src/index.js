@@ -43,4 +43,4 @@ export const printWeatherAndTime = async ([location, zipCode]) => {
   });
 };
 
-printWeatherAndTime(["california", 1020202]);
+printWeatherAndTime(["new york", 10001]);
